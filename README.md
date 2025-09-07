@@ -10,10 +10,11 @@ This is a symbol web application to demonstrate the implementation and use of OA
 ## Step 1: Installation: 
 Make sure you have Python 3.7+ install.
 Clone the project from github
-'''bash
-git clone PROJECT_HTTPS_URL
+'''
+git clone https://github.com/hoangnguyen5147/sweng861-login-service.git
 cd project-repository
 pip install -r requirements.txt
+'''
 
 ## Step 2: Download and Add .env file: 
 Download 'env' file from Azure container via shared link (The link to the download env will be provided separately).
