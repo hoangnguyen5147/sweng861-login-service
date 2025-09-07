@@ -23,9 +23,9 @@ Add the downloaded `.env` file in the root directory of the project repository.
 Note: you can create your own `.env` file following the same format from the provided `.env` file to use your own client ids and client secrets 
 
 ## Hidden File: 
-`.` file is hidden by default so following the following instruction if you can't see the file in your directory.
-macOS (Finder): Open folder where `.env` is -> Press `Command + Shift + .` 
-Windows (File Explorer): Open folder where `.env` is -> Select the `View` tab at the top -> Check the box `Hidden Items`.
+`.` file is hidden by default so following the following instruction if you can't see the file in your directory.  
+macOS (Finder): Open folder where `.env` is -> Press `Command + Shift + .`   
+Windows (File Explorer): Open folder where `.env` is -> Select the `View` tab at the top -> Check the box `Hidden Items`.  
 
 ## Step 3: Usage: 
 Enter the following comamnd to run the app in terminal: python app.py
