@@ -30,6 +30,7 @@ Windows (File Explorer): Open folder where `.env` is -> Select the `View` tab at
 ## Step 3: Usage: 
 Enter the following comamnd to run the app in terminal: python app.py
 Successfully running app.py will output the following lines
+```bash
  * Serving Flask app `app`
  * Debug mode: on
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
@@ -38,6 +39,7 @@ Press CTRL+C to quit
  * Restarting with watchdog (fsevents)
  * Debugger is active!
  * Debugger PIN: 306-095-811
+```
 
  ## Step 4: Open web browser: 
  Open your web browser at http://localhost:8080 
