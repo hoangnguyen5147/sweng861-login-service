@@ -42,7 +42,7 @@ Press CTRL+C to quit
 ```
 
  ## Step 4: Open web browser: 
- Open your web browser at http://localhost:8080 
+ Open your web browser at `http://localhost:8080`. 
  Choose Between `Login with Google` or `Login with Facebook` and following the prompt to enter your user name and password for authorization
 
  ## Project Structure:
