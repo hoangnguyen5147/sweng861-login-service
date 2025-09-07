@@ -46,6 +46,7 @@ Press CTRL+C to quit
  Choose Between `Login with Google` or `Login with Facebook` and following the prompt to enter your user name and password for authorization
 
  ## Project Structure:
+ ```plaintext
 your-project/
 │
 ├── app.py
@@ -54,6 +55,7 @@ your-project/
 ├── README.md
 └── docs/
     └── OAuth2.pdf
+```
 
 ## Flow Charts:
 [View Flow Diagram](docs/OAuth2.pdf)
