@@ -17,10 +17,10 @@ pip install -r requirements.txt
 ```
 
 ## Step 2: Download and Add .env file: 
-Download `env` file from Azure container via shared link (The link to the download env will be provided separately).
-Rename `env` to `.env` file after download.
-Add the downloaded `.env` file in the root directory of the project repository.
-Note: you can create your own `.env` file following the same format from the provided `.env` file to use your own client ids and client secrets 
+Download `env` file from Azure container via shared link (The link to the download env will be provided separately).  
+Rename `env` to `.env` file after download.  
+Add the downloaded `.env` file in the root directory of the project repository.  
+Note: you can create your own `.env` file following the same format from the provided `.env` file to use your own client ids and client secrets   
 
 ## Hidden File: 
 `.` file is hidden by default so following the following instruction if you can't see the file in your directory.  
@@ -28,8 +28,11 @@ macOS (Finder): Open folder where `.env` is -> Press `Command + Shift + .`
 Windows (File Explorer): Open folder where `.env` is -> Select the `View` tab at the top -> Check the box `Hidden Items`.  
 
 ## Step 3: Usage: 
-Enter the following comamnd to run the app in terminal: python app.py
-Successfully running app.py will output the following lines
+Enter the following comamnd to run the app in terminal: 
+```bash
+python app.py
+```
+Successfully running app.py will output the following lines.
 ```bash
  * Serving Flask app `app`
  * Debug mode: on
@@ -42,7 +45,7 @@ Press CTRL+C to quit
 ```
 
  ## Step 4: Open web browser: 
- Open your web browser at `http://localhost:8080`. 
+ Open your web browser at `http://localhost:8080`.   
  Choose Between `Login with Google` or `Login with Facebook` and following the prompt to enter your user name and password for authorization
 
  ## Project Structure:
