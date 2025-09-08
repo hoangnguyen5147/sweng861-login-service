@@ -8,7 +8,7 @@ This is a symbol web application to demonstrate the implementation and use of OA
     . Facebook OAuth2.0
 
 ## Step 1: Installation: 
-Make sure you have Python 3.7+ install.
+Make sure you have Python 3.7+ and pip installed.
 Clone the project from github
 ```bash
 git clone https://github.com/hoangnguyen5147/sweng861-login-service.git
